@@ -1,9 +1,4 @@
-body{background-color: rgb(255, 255, 255);}
-.bolinho{height: 400px;
-width: 400px;
-
-
-
-
-
+body{background-image: url(https://img.freepik.com/fotos-gratis/bolos-velas-aalaw-e-polvilha-no-canto-do-fundo-rosa_23-2148190399.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
