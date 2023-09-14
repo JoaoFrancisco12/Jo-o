@@ -1,14 +1,4 @@
 body{
-    background-color: #e4c090;
+    background: rgb(160,242,197);
+    background: linear-gradient(90deg, rgba(160,242,197,1) 0%, rgba(130,219,190,1) 100%);
 }
-.origem{width: 800px;
-height: 500px;}
-.imagem1{
-    width: 600px;
-    height: 400px;
-}
-
-.massa{width: 400px;
-height: 250px;}
-.recheio{width: 400px;
-height: 250px;}
